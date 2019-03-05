@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questionnaires SYSTEM "questionnaire.dtd">
+<questionnaires>
+	<questionnaire niveau="debutant" numero="n1">
+		<titre>Questionnaire debutant</titre>
+		<questions>
+			<question>
+				<enonce>Au Moyen-Age, comment appelait-on les villages fortifies ?</enonce>
+				<reponse id="q1R1" score="0">Tour</reponse>
+				<reponse id="q1R2" score="1">Bastide</reponse>
+				<reponse id="q1R3" score="0">Chateau fort</reponse>
+				<reponse id="q1R4" score="0">Rempart</reponse>
+			</question>
+			<question>
+				<enonce>À quel réalisateur français doit-on le film "Banzaï" ?</enonce>
+				<reponse id="q2R1" score="1">Claude Sautet</reponse>
+				<reponse id="q2R2" score="0">Claude Chabrol</reponse>
+				<reponse id="q2R3" score="1">Claude Zidi</reponse>
+				<reponse id="q2R4" score="0">Claude Lelouch</reponse>
+			</question>
+			<question>
+				<enonce>Comment est également appelée la « Transat Jacques Vabre » ?</enonce>
+				<reponse id="q3R1" score="0">Route du rhum</reponse>
+				<reponse id="q3R2" score="0">Vendée Globe</reponse>
+				<reponse id="q3R3" score="1">Route du café</reponse>
+				<reponse id="q3R4" score="0">Trophée du rhum</reponse>
+			</question>
+			<question>
+				<enonce>Quel pays a pour capitale Katmandou ?</enonce>
+				<reponse id="q4R1" score="0">Le Pakistan</reponse>
+				<reponse id="q4R2" score="0">La Corée du Sud</reponse>
+				<reponse id="q4R3" score="0">Le Tibet</reponse>
+				<reponse id="q4R4" score="1">Le Népal</reponse>
+			</question>
+			<question>
+				<enonce>Comment appelle-t-on le fruit du plaqueminier ?</enonce>
+				<reponse id="q5R1" score="0">Kakou</reponse>
+				<reponse id="q5R2" score="0">Kacha</reponse>
+				<reponse id="q5R3" score="1">Kaki</reponse>
+				<reponse id="q5R4" score="0">Kali</reponse>
+			</question>
+			<question>
+				<enonce>Qui etait le compagnon de saint Paul ?</enonce>
+				<reponse id="q6R1" score="0">Saint-Matthieu</reponse>
+				<reponse id="q6R2" score="0">Saint-Jean</reponse>
+				<reponse id="q6R3" score="1">Saint-Luc</reponse>
+				<reponse id="q6R4" score="0">Saint-Marc</reponse>
+			</question>
+			<question>
+				<enonce>Dans quel film John Travolta incarne-t-il un ange tombe du ciel ?</enonce>
+				<reponse id="q7R1" score="1">Michael</reponse>
+				<reponse id="q7R2" score="0">Johnny</reponse>
+				<reponse id="q7R3" score="0">Jerry</reponse>
+				<reponse id="q7R4" score="0">Sam</reponse>
+			</question>
+			<question>
+				<enonce>Quel titre de noblesse est immediatement inferieur à celui de comte ?</enonce>
+				<reponse id="q8R1" score="0">Archiduc</reponse>
+				<reponse id="q8R2" score="0">Marquis</reponse>
+				<reponse id="q8R3" score="1">Vicomte</reponse>
+				<reponse id="q8R4" score="0">Duc</reponse>
+			</question>
+			<question>
+				<enonce>De quelle serie de six films un champion de boxe est-il la vedette ?</enonce>
+				<reponse id="q9R1" score="0">Ritchie</reponse>
+				<reponse id="q9R2" score="1">Rocky</reponse>
+				<reponse id="q9R3" score="0">Rambo</reponse>
+				<reponse id="q9R4" score="0">Randy</reponse>
+			</question>
+			<question>
+				<enonce>Quelle est la capitale de la Nouvelle-Zelande ?</enonce>
+				<reponse id="q10R1" score="0">Dublin</reponse>
+				<reponse id="q10R2" score="0">Auckland</reponse>
+				<reponse id="q10R3" score="1">Wellington</reponse>
+				<reponse id="q10R4" score="0">Sydney</reponse>
+			</question>
+		</questions>
+	</questionnaire>
+	
+	<questionnaire niveau="debutant" numero="n1">
+		<titre>Questionnaire intermediaire</titre>
+		<questions>
+			<question>
+				<enonce>7+8+9 = ?</enonce>
+				<reponse id="q1R1" score="0">0</reponse>
+				<reponse id="q1R2" score="0">156</reponse>
+				<reponse id="q1R3" score="1">24</reponse>
+				<reponse id="q1R4" score="0">26</reponse>
+			</question>
+			<question>
+				<enonce>90+45/5</enonce>
+				<reponse id="q2R1" score="1">97</reponse>
+				<reponse id="q2R2" score="0">17</reponse>
+				<reponse id="q2R3" score="0">120</reponse>
+				<reponse id="q2R4" score="0">98</reponse>
+			</question>
+		</questions>
+	</questionnaire>
+	
+	<questionnaire niveau="debutant" numero="n1">
+		<titre>Questionnaire expert</titre>
+		<questions>
+			<question>
+				<enonce>2 ? 4 12 48 240</enonce>
+				<reponse id="q1R1" score="0">3</reponse>
+				<reponse id="q1R2" score="1">2</reponse>
+				<reponse id="q1R3" score="0">4</reponse>
+				<reponse id="q1R4" score="0">1</reponse>
+			</question>
+			<question>
+				<enonce>Contre qui Lille joue la final de la coupe de la ligue en 2016 ?</enonce>
+				<reponse id="q2R1" score="1">Paris</reponse>
+				<reponse id="q2R2" score="0">Olympique de marseille</reponse>
+				<reponse id="q2R3" score="0">Olympique lyonnais</reponse>
+				<reponse id="q2R4" score="0">Lens</reponse>
+			</question>
+			<question>
+				<enonce>Comment avez vous trouvez mon quizz ?</enonce>
+				<reponse id="q3R1" score="0">Pas mal</reponse>
+				<reponse id="q3R2" score="0">Pitoyable</reponse>
+				<reponse id="q3R3" score="0">Bien</reponse>
+				<reponse id="q3R4" score="1">Superbe</reponse>
+			</question>
+		</questions>
+	</questionnaire>
+</questionnaires>

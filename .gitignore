@@ -1,0 +1,10 @@
+.idea/
+**/*.DS_Store
+**/*.iml
+**/target/**
+**/.classpath
+**/.project
+**/node_modules
+/target/
+/bin/
+.settings/
